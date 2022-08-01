@@ -14,15 +14,15 @@
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
-            "value": ""
+            "value": "8ce53801c1b49cd4d2fa108eb151b255"
         },
         "API_ID": {
             "description": "You API ID from my.telegram.org",
-            "value": ""
+            "value": "8173444"
         },
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "5337183930:AAEQc8pbjleTSxzyjtS_GHYWfeVvcy4pEKo"
         },
         "ADMIN": {
             "description": "ID of ADMIN",
@@ -30,27 +30,27 @@
         },
         "START_IMG": {
             "description": "Telegraph Link Of Image",
-            "value": ""
+            "value": "https://te.legra.ph/file/46d967d7f0ea366f7f6f3.jpg"
         },
         "START_MSG": {
             "description": "Start Message",
-            "value": ""
+            "value": "Salam Xos geldin Dejdjdjd"
         },
         "BUTTON_1": {
             "description": "Text in Button 1",
-            "value": ""
+            "value": "Dejavu Support"
         },
         "LINK_1": {
             "description": "Link in Button 1",
-            "value": ""
+            "value": "@DejavuSupport"
         },
         "BUTTON_2": {
             "description": "Text in Button 2",
-            "value": ""
+            "value": "Dejavu Team"
         },
         "LINK_2": {
             "description": "Link in Button 2",
-            "value": ""
+            "value": "@DejavuTeam"
         }        
     },
     "buildpacks": [
